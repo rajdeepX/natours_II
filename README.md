@@ -1,4 +1,4 @@
-# 🌿 Natours II - Outdoors Trekking Booking App
+# 🌿 Outdoors Trekking Booking App
 
 **Outdoors** is a modern, frontend-only web application where users can explore and choose their next trekking adventure amidst nature.
 
